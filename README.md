@@ -8,6 +8,7 @@
 
 - 💼 [LinkedIn] https://www.linkedin.com/in/titly-dey-250364303/
 - 🖥️ [GitHub] https://github.com/titlydey
+- titlydey.github.io/Portfolio_titly/
 
 
 
